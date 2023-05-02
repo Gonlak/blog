@@ -1,0 +1,10 @@
+@charset "UTF-8";
+
+main{
+    min-height: 85vh;
+    display: block !important;
+}
+
+.text-justify{
+    text-align: center;
+}
